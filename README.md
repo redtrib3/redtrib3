@@ -5,8 +5,8 @@
 
 
 
-- 🔭 Still Learning and Observing  ..
-- 🌱 Python is ❤️
+- 🔭 Still Learning   ..
+- 🌱 Python ❤️
 - 👯 Collaborations Are welcome ..
 
 
