@@ -1,18 +1,7 @@
 ### Hi there 👋
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/anii0101.png" alt="TryHackMe">
+Hi, i'm Anirudh , a Cybersec enthusiast from <b> INDIA 🇮🇳 </b> 
 
-
-
-
-
-- 🔭 Still Learning   ..
-- 🌱 Python ❤️
-- 👯 Collaborations Are welcome ..
-
-
-- 💬 Ask Me anything Anytime
-- 📫 Or just  DM me in Discord - @anii0101
-
-
-             🌍 🙌 🇮🇳
+ ## Two bytes meet. The first byte asks, ‘Are you ill?’ The second byte replies, ‘No, just feeling a bit off.
+ (No i'm not a crack)
+             🌍 🙌 🇮
