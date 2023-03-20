@@ -1,6 +1,5 @@
 <h1 align="center">Hi there 👋, I'm redtrib3 </h1>
-<h3 align="center"><span style="font-weight:bold;">THIS IS</span>  uid=0(root) gid=0(root) groups=0(root) </h1>
-
+<h3 align="center"> uid=0(root) gid=0(root) groups=0(root) </h1>
 
 <p align="center">
   
@@ -8,6 +7,7 @@
   
 </p>
 
+![](https://komarev.com/ghpvc/?username=redtrib3&color=red&style=for-the-badge)
 
 
 
