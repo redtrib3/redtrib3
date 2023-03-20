@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=21&duration=5000&color=F73232FF&background=0053FF00&multiline=true&height=75&lines=TryHackMe+-+%40anii0101;HacktheBox+-+%40redtrib3"><br><br>
   
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="30" height="30"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/flask.svg" alt="flask" width="30" height="30"/>
   <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="fastapi"Tt width="30" height="30"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
   
