@@ -8,7 +8,7 @@
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/flask.svg" alt="flask" width="30" height="30"/>
   <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="fastapi"Tt width="30" height="30"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
-  
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/bash.svg" alt="bash" width="30" height="30" />
 </p>
 
 ![](https://komarev.com/ghpvc/?username=redtrib3&color=red&style=for-the-badge)
