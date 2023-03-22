@@ -2,7 +2,7 @@
 <h3 align="center"> uid=0(root) gid=0(root) groups=0(root) </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=21&duration=5000&color=F73232FF&background=0053FF00&multiline=true&height=75&lines=TryHackMe+-+%40anii0101;HacktheBox+-+%40redtrib3"><br><br>
+  [![Readme Card](https://github-readme-stats.vercel.app/api?username=redtrib3&hide=contribs&theme=radical)](https://github.com/redtrib3)
   
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/flask.svg" alt="flask" width="30" height="30"/>
