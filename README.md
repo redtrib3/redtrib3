@@ -12,7 +12,7 @@
   <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/bash.svg" alt="bash" width="30" height="30" />
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=redtrib3&color=red&style=for-the-badge" height="40" width="40" />
+<img src="https://komarev.com/ghpvc/?username=redtrib3&color=red&style=for-the-badge" height="15" width="100" />
 
 
 
