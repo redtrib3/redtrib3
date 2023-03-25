@@ -1,6 +1,6 @@
 <div align="center">
-<h1> Hi there 👋, I'm redtrib3 </h1>
-<i> A N I R U D H</i>
+<h1> Hi there 👋 </h1>
+<i> S T A T S </i>
 </div>
 <br>
 
