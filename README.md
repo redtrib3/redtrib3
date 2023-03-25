@@ -1,7 +1,8 @@
 <div align="center">
 <h1> Hi there 👋, I'm redtrib3 </h1>
-<i> uid=0(root) gid=0(root) groups=0(root) </i>
+<i> A N I R U D H</i>
 </div>
+<br>
 
 <div align="center">
   
