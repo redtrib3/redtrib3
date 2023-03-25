@@ -1,5 +1,7 @@
-<h1 align="center">Hi there 👋, I'm redtrib3 </h1>
-<h3 align="center"> uid=0(root) gid=0(root) groups=0(root) </h1>
+<div align="center">
+<h1> Hi there 👋, I'm redtrib3 </h1>
+<i> uid=0(root) gid=0(root) groups=0(root) </i>
+</div>
 
 <div align="center">
   
