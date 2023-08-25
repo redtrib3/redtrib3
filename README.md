@@ -17,7 +17,7 @@
 <br><br>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=redtrib3&show_icons=true&theme=midnight-purple&locale=en&layout=donut-vertical" alt="redtrib3_stat" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=redtrib3&show_icons=true&theme=midnight-purple&locale=en&layout=compact&hide=procfile,css&langs_count=9" alt="redtrib3_stat" />
 </div><br><br>
 
 ![](https://komarev.com/ghpvc/?username=redtrib3&color=red&style=for-the-badge)
