@@ -6,8 +6,10 @@
 [![ctftime](https://img.shields.io/badge/CTFTIME-E3000B?logo=ctftime&logoColor=white)](https://ctftime.org/user/158251) 
 [![tryhackme](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/redtrib3) 
 [![hackthebox](https://img.shields.io/badge/Hackthebox-A2EF08?logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/409987) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-1469C7?logo=linkedin&logoColor=black)](https://www.linkedin.com/in/anirudh-krishnaprasad
+) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![Linux](https://img.shields.io/badge/linux-fcba03.svg?style=flat&logo=linux&logoColor=black)![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=redtrib3&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
