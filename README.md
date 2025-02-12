@@ -1,6 +1,4 @@
- # Hi there! ![popcorn](https://github.com/user-attachments/assets/6dc9646d-6194-4f01-909a-7774c48aedd4)
-
- 
+ # Hello!
 ### 🌐 Socials:
 
 [![blog](https://img.shields.io/badge/My%20Portfolio-111827?logo=portfolio&logoColor=white)](https://redtrib3.in/)
